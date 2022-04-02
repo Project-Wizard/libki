@@ -117,7 +117,7 @@ namespace dml
 
 	void MessageModule::sort_lookup()
 	{
-		uint8_t message_type = 0;
+		uint8_t message_type = 1;
 
 		// First, clear the message type map since we're going to be
 		// moving everything around
